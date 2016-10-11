@@ -38,9 +38,7 @@ Time spent: `<10>`
 
 #### The following **additional** features are implemented:
 
-- [x] List anything else that you can get done to improve the app functionality!
-
-add an invisibile button at top to refresh the page so the animated email shows up again. 
+- [x] Add an invisibile button at top to refresh the page so the animated email shows up again. 
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
